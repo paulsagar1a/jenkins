@@ -6,6 +6,6 @@ public class HelloJenkins {
 	}
 	
 	public String helloJenkins2() {
-		return "Hello Jenkins2";
+		return "Hello Jenkins2...";
 	}
 }
